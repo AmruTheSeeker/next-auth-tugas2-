@@ -30,7 +30,7 @@ dependencies:
     specifier: ^5.6.0
     version: 5.6.0
   react:
-    specifier: ^18
+    specifier: ^18.2.0
     version: 18.2.0
   react-dom:
     specifier: ^18
